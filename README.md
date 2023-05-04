@@ -1,9 +1,6 @@
 # Arnold Calculator
 A simple calculator written in the ArnoldC programming language, inspired by Arnold Schwarzenegger's iconic movie one-liners. The calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-## Getting Started
-To get started with the Arnold Calculator, follow these steps:
-
 ## Prerequisites
 Install Java Development Kit (JDK) on your computer. You can download the JDK from the official Oracle website: https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 Install the ArnoldC compiler by following the instructions on its GitHub repository: https://github.com/lhartikk/ArnoldC
